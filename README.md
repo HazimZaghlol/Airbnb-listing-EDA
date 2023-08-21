@@ -51,9 +51,9 @@ To replicate and run this project locally, you need to have the following tools 
 
 
 
-## Data
+## Data Source
 
-The data used in this project comes from Airbnb listings for the chosen city. The dataset includes various attributes such as listing price, availability, location, property type, and more. The data will be used to perform the exploratory analysis and gain insights into the Airbnb market.
+The data used in this project comes from Airbnb listings (http://insideairbnb.com/get-the-data/) for the Amsterdam, North Holland, The Netherlands city (05 June, 2023). The dataset includes various attributes such as listing price, availability, location, property type, and more. The data will be used to perform the exploratory analysis and gain insights into the Airbnb market.
 
 ## Exploratory Data Analysis
 

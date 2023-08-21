@@ -3,18 +3,14 @@ Welcome to the Airbnb Exploratory Data Analysis (EDA) project repository! In thi
 ## Table of Contents
 Introduction
 Getting Started
-Prerequisites
-Installation
-Data
+Data Source
 Project Structure
-Exploratory Data Analysis
-Data Cleaning
-Visualization
-Statistical Analysis
-Results and Findings
-Conclusion
+Installation
+Usage
+Results
 Contributing
 License
+
 ## Introduction
 The purpose of this project is to delve into the Airbnb listings data of a specific city and extract meaningful insights to understand the dynamics of the short-term rental market. By employing exploratory data analysis techniques, we aim to uncover hidden trends, relationships, and patterns that could influence the demand for Airbnb listings.
 

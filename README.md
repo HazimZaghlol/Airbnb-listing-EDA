@@ -18,10 +18,10 @@ Getting Started
 Prerequisites
 To replicate and run this project locally, you need to have the following tools and libraries installed:
 
-Python (3.x recommended)
-Jupyter Notebook
-Pandas
-Matplotlib
-Seaborn
-ipyleaflet
-plotly
+-Python (3.x recommended)
+-Jupyter Notebook
+-Pandas
+-Matplotlib
+-Seaborn
+-ipyleaflet
+-plotly

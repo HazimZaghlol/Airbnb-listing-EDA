@@ -1,6 +1,6 @@
 # Airbnb Exploratory Data Analysis (EDA) Project
 
-Welcome to the Airbnb Exploratory Data Analysis (EDA) project repository! In this project, we will perform an in-depth analysis of Airbnb listings data for a specific city, focusing on various factors such as price, availability, location, and property type. The goal of this analysis is to identify trends and patterns in the demand for Airbnb listings within the chosen city.
+Welcome to the Airbnb Exploratory Data Analysis (EDA) project repository! In this project, we will perform an analysis of Airbnb listings data for a specific city, focusing on various factors such as price, availability, location, and property type. The goal of this analysis is to identify trends and patterns in the demand for Airbnb listings within the chosen city.
 
 ## Table of Contents
 
@@ -9,12 +9,10 @@ Welcome to the Airbnb Exploratory Data Analysis (EDA) project repository! In thi
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Data](#data)
-- [Project Structure](#project-structure)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Cleaning](#data-cleaning)
 - [Visualization](#visualization)
 - [Statistical Analysis](#statistical-analysis)
-- [Results and Findings](#results-and-findings)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
 - [License](#license)
@@ -34,58 +32,28 @@ To replicate and run this project locally, you need to have the following tools 
 - Pandas
 - Matplotlib
 - Seaborn
+- plotly
+- ipyleaflet
 
 ### Installation
 
 1. Clone this repository to your local machine using:
 
    ```
-   git clone https://github.com/your-username/airbnb-eda.git
+   git clone https://github.com/HazimZaghlol/Airbnb-listing-EDA.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd airbnb-eda
+   cd Airbnb-listing-EDA
    ```
 
-3. Create a virtual environment (optional but recommended):
 
-   ```
-   python -m venv venv
-   ```
-
-4. Activate the virtual environment:
-
-   - On Windows:
-
-     ```
-     venv\Scripts\activate
-     ```
-
-   - On macOS and Linux:
-
-     ```
-     source venv/bin/activate
-     ```
-
-5. Install the required libraries:
-
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## Data
 
 The data used in this project comes from Airbnb listings for the chosen city. The dataset includes various attributes such as listing price, availability, location, property type, and more. The data will be used to perform the exploratory analysis and gain insights into the Airbnb market.
-
-## Project Structure
-
-The project directory is organized as follows:
-
-- `notebooks/`: Contains Jupyter Notebook files for the exploratory analysis.
-- `data/`: Holds the Airbnb listings data in CSV format.
-- `results/`: This folder will contain generated visualizations and analysis outputs.
 
 ## Exploratory Data Analysis
 
@@ -102,10 +70,6 @@ Data visualization is a crucial aspect of this project. We will create informati
 ## Statistical Analysis
 
 Statistical analysis will be performed to validate hypotheses and quantify relationships between variables. This will provide a more rigorous understanding of the data.
-
-## Results and Findings
-
-The results and findings of the analysis will be presented in the Jupyter Notebook. We will summarize the key insights, trends, and patterns that we've identified in the Airbnb listings data.
 
 ## Conclusion
 

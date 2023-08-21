@@ -27,3 +27,5 @@ Jupyter Notebook
 Pandas
 Matplotlib
 Seaborn
+ipyleaflet
+plotly
